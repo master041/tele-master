@@ -243,7 +243,7 @@ Admins
 
 
 ]],
-    help_text_realm = [[
+    help_text_realm = [101782706]
 Realm Commands:
 
 !creategroup [Name]
